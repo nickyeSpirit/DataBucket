@@ -5,3 +5,5 @@ DataBucket/ProjectSettings/PresetManager.asset
 *.asset
 DataBucket/UserSettings
 DataBucket/Logs
+DataBucket/obj
+DataBucket/.idea
