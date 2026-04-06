@@ -1,0 +1,7 @@
+﻿DataBucket/Library
+DataBucket/Temp
+*.csproj
+DataBucket/ProjectSettings/PresetManager.asset
+*.asset
+DataBucket/UserSettings
+DataBucket/Logs
